@@ -1,0 +1,49 @@
+/*
+menu horizontal y vertical
+*/
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+img{
+    float: left;
+    width: 40%;
+    margin:auto
+    border: 5px double;
+}
+.menuH{
+    overflow: hidden;
+    border: 5px double;
+}
+.menuV{
+    float: left;
+    width: 26%;
+    overflow: hidden;
+}
+.menuV a{
+    background-color: rgb(229, 167, 167);
+    color: rgb(239, 11, 11);
+    text-decoration: none;
+    float: left;
+    width: 25%;
+    padding: 20px;
+    display: block;
+}
+.menuV a:hover{
+    background-color: rgb(240, 12, 12);
+    color:rgb(227, 117, 105);
+}
+.menuH a{
+    background-color: rgb(232, 87, 87);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+
+}
+.menuH a:hover{
+        background-color: rgb(243, 5, 5);
+        color:rgb(243, 123, 123)
+}

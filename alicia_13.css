@@ -1,0 +1,28 @@
+/* comparacion de moviles*/
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+table{
+    margin-top: 3rem;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+   border-collapse: collapse;
+   background-image: linear-gradient(to right red, pink);
+}
+th{
+    background-color: blueviolet;s
+    color: antiquewhite;
+}
+caption{
+    padding-top:1.5rem ;
+    font-style: italic;
+}
+td,th{
+    border: 0.12rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+}

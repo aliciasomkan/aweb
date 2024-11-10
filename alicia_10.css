@@ -1,0 +1,20 @@
+/*Hoja de estillo */
+*{
+    box-sizing: border-box;
+}
+.header footer{
+     background-color: burlywood;
+     border-style: solid;
+     border-radius:20px;
+     padding:5px;
+     text-align: center;
+}
+.body{
+    background-image: url(./Picture/paco-amoroso.jpg);
+}
+.video {
+    padding-top: 20px ;
+    width:80% ;
+    margin: auto;
+    display: block;
+}

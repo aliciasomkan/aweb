@@ -1,0 +1,26 @@
+/*
+Alicia Somkan
+september 2024
+*/
+
+*{
+margin:0px;
+box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(193, 156, 110);
+    border: solid 5px green;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+h1,h2{
+    background-color: rgb(179, 148, 209);
+    color: rgb(10, 12, 12);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
